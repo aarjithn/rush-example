@@ -9,11 +9,11 @@
     "my-bulk-command": "my-bulk-command"
   },
   "dependencies": {
-    "my-controls": "workspace:^1.0.0",
+    "my-controls": "workspace:^1.0.1",
     "whatwg-fetch": "^3.6.2"
   },
   "devDependencies": {
-    "my-toolchain": "workspace:^1.0.0",
+    "my-toolchain": "workspace:^1.0.1",
     "typescript": "^3.0.3"
   }
 }

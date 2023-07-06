@@ -1,0 +1,22 @@
+{
+  "name": "my-controls",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "my-controls_v1.0.1",
+      "date": "Thu, 06 Jul 2023 14:05:20 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "updates"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"my-toolchain\" from `^1.0.0` to `^1.0.1`"
+          }
+        ]
+      }
+    }
+  ]
+}
