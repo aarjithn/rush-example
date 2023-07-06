@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "my-controls",
+      "comment": "updates",
+      "type": "patch"
+    }
+  ],
+  "packageName": "my-controls"
+}
