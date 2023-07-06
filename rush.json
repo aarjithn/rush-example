@@ -27,7 +27,6 @@
    * for details about these alternatives.
    */
   "pnpmVersion": "6.7.1",
-
   // "npmVersion": "6.14.15",
   // "yarnVersion": "1.9.4",
 
@@ -170,8 +169,7 @@
      * RegExp escapes need two backslashes, and ordinary periods should be "\\.".
      */
     "allowedEmailRegExps": [
-      "[^@]+@users\\.noreply\\.github\\.com",
-      "rush-bot@example\\.org"
+      "[^@]+@envestnet\\.com"
     ],
 
     /**
@@ -179,7 +177,7 @@
      * of a recommended email.  Make sure it conforms to one of the allowedEmailRegExps
      * expressions.
      */
-    "sampleEmail": "example@users.noreply.github.com",
+    "sampleEmail": "example@envestnet.com",
 
     /**
      * The commit message to use when committing changes during 'rush publish'.
@@ -223,7 +221,7 @@
      * your PR branch, and in this situation "rush change" will also automatically invoke "git fetch"
      * to retrieve the latest activity for the remote main branch.
      */
-    // "url": "https://github.com/microsoft/rush-example",
+    "url": "https://github.com/microsoft/rush-example",
 
     /**
      * The default branch name. This tells "rush change" which remote branch to compare against.
